@@ -1,0 +1,3 @@
+C:/Users/gabriel.de-brito/Documents/GitHub/To-Do-List-SDL/cmake-build-debug/CMakeFiles/To_Do_List_SDL.dir
+C:/Users/gabriel.de-brito/Documents/GitHub/To-Do-List-SDL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gabriel.de-brito/Documents/GitHub/To-Do-List-SDL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
